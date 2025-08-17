@@ -4,7 +4,7 @@ A comprehensive, feature-rich admin panel and authentication system built with L
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![fa_IR](https://img.shields.io/badge/lang-fa__IR-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white)](README.fa.md)
+[![fa_IR](https://img.shields.io/badge/lang-fa__IR-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white)](README_FA.md)
 
 ## 🚀 Live Demo
 
