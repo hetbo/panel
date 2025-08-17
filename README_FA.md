@@ -78,7 +78,7 @@
   <img src="fa/13.png" alt="demo" width="48%" />
 </div>
 
-## 🛠️ پشته فناوری
+## 🛠️ تکنولوژی‌های مورد استفاده
 - **بک‌اند**: Laravel (PHP)  
 - **فرانت‌اند**: Blade Templates، TailwindCSS  
 - **پایگاه داده**: MySQL/PostgreSQL  
