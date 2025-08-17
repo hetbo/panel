@@ -59,7 +59,7 @@ A comprehensive, feature-rich admin panel and authentication system built with L
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](sc/dashboard.png)
 *Main dashboard with statistics and quick insights*
 
 ### Smart Login System
